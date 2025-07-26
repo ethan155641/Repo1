@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@angular/core": "^15.0.0",
+    "@angular/common": "^15.0.0",
+    "@angular/platform-browser": "^15.0.0",
+    "@angular/animations": "^15.0.0",
+    "@angular/router": "^15.0.0",
+    "rxjs": "^7.8.0"
+  },
+  "name": "projforresume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
